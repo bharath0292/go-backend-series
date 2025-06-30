@@ -1,0 +1,6 @@
+
+docs
+**/*/tmp/
+**/*/logs/
+**/*/logs/
+.vscode/*
