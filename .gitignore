@@ -1,6 +1,7 @@
+.vscode/*
 
-docs
+docs/*
+
 **/*/tmp/
 **/*/logs/
-**/*/logs/
-.vscode/*
+**/*/cert/
